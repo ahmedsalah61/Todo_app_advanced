@@ -1,16 +1,19 @@
-# tasks_app_adavanced
+ 📝 To-Do App
 
-A new Flutter project.
+A simple To-Do app built with **Flutter** to manage daily tasks.  
+It supports creating, updating, and deleting tasks, and stores data locally using **SharedPreferences**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+✨ Features
+- Add, edit, and delete tasks  
+- Mark tasks as done or undone  
+- Local storage (SharedPreferences)  
+- Simple and clean UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 🛠️ Technologies Used
+- Flutter & Dart  
+- Cubit (BLoC) for state management  
+- SharedPreferences for local storage 
